@@ -1,0 +1,2 @@
+include ':app'
+include 'libvlc3.0.9'

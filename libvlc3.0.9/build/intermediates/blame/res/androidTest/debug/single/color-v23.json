@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "H:\\Android_PadWord\\filedownDemo\\WifiP2PDemo2\\libvlc3.0.9\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v23\\abc_btn_colored_text_material.xml",
+        "source": "H:\\Android_PadWord\\filedownDemo\\WifiP2PDemo2\\libvlc3.0.9\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.1\\res\\color-v23\\abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "H:\\Android_PadWord\\filedownDemo\\WifiP2PDemo2\\libvlc3.0.9\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v23\\abc_color_highlight_material.xml",
+        "source": "H:\\Android_PadWord\\filedownDemo\\WifiP2PDemo2\\libvlc3.0.9\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.1\\res\\color-v23\\abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "H:\\Android_PadWord\\filedownDemo\\WifiP2PDemo2\\libvlc3.0.9\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v23\\abc_tint_seek_thumb.xml",
+        "source": "H:\\Android_PadWord\\filedownDemo\\WifiP2PDemo2\\libvlc3.0.9\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.1\\res\\color-v23\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "H:\\Android_PadWord\\filedownDemo\\WifiP2PDemo2\\libvlc3.0.9\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v23\\abc_btn_colored_borderless_text_material.xml",
+        "source": "H:\\Android_PadWord\\filedownDemo\\WifiP2PDemo2\\libvlc3.0.9\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.1\\res\\color-v23\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "H:\\Android_PadWord\\filedownDemo\\WifiP2PDemo2\\libvlc3.0.9\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v23\\abc_tint_btn_checkable.xml",
+        "source": "H:\\Android_PadWord\\filedownDemo\\WifiP2PDemo2\\libvlc3.0.9\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.1\\res\\color-v23\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "H:\\Android_PadWord\\filedownDemo\\WifiP2PDemo2\\libvlc3.0.9\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v23\\abc_tint_default.xml",
+        "source": "H:\\Android_PadWord\\filedownDemo\\WifiP2PDemo2\\libvlc3.0.9\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.1\\res\\color-v23\\abc_tint_default.xml"
+    },
+    {
+        "merged": "H:\\Android_PadWord\\filedownDemo\\WifiP2PDemo2\\libvlc3.0.9\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v23\\abc_tint_spinner.xml",
+        "source": "H:\\Android_PadWord\\filedownDemo\\WifiP2PDemo2\\libvlc3.0.9\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.1\\res\\color-v23\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "H:\\Android_PadWord\\filedownDemo\\WifiP2PDemo2\\libvlc3.0.9\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v23\\abc_tint_switch_track.xml",
+        "source": "H:\\Android_PadWord\\filedownDemo\\WifiP2PDemo2\\libvlc3.0.9\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.1\\res\\color-v23\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "H:\\Android_PadWord\\filedownDemo\\WifiP2PDemo2\\libvlc3.0.9\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v23\\abc_tint_edittext.xml",
+        "source": "H:\\Android_PadWord\\filedownDemo\\WifiP2PDemo2\\libvlc3.0.9\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.1\\res\\color-v23\\abc_tint_edittext.xml"
+    }
+]
